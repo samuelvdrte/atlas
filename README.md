@@ -56,4 +56,4 @@ O objetivo do Atlas é unir tecnologia, geografia e educação em uma única pla
 
 ## 👨‍💻 Desenvolvedor
 
-Projeto acadêmico desenvolvido por Samuel Duarte, utilizando React e integração com APIs externas.
+Projeto acadêmico desenvolvido por Samuel Duarte, com auxilio da IA para integração de APIs externas e interface, utilizando React.
